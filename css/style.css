@@ -127,8 +127,8 @@ p{
 	text-overflow: ellipsis;
 }
 .collection-text p{
-	max-height: 80px;
-	white-space: nowrap;
+	height: 80px;
+	/*white-space: nowrap;*/
 	overflow: hidden;
 }
 .collection-text button{
